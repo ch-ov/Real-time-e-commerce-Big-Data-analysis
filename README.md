@@ -3,6 +3,7 @@
 
 ## Description
 
+Big data implies queries for sites with a lot of information incoming per second in volume and variety that needs to be analyzed. This project is an end-to-end simulated real time big data analysis for an e-commerce site, with a final infrastructure that can be scalable and applied to other big data cases.
 
 ## Learning Objectives
 
@@ -12,6 +13,9 @@
 * Allows for self-directed learning to explore a new technical topic, deepen understanding of a curriculum-covered topic, or use technology to bring an idea to life.
 
 ## Tecnologies
+
+Ingesting and analyzing data in a project was not usually a problem: enter the data, store in a SQL, take your time, analyze and deploy the results, no big deal. However the data explosion of the last decades of peta (10\**15) or exa (10**18) in volume, velocity, and variety had led software engineers to develop new technologies.
+Google has made a big step in these new technologies (2000’s) and since then open source projects have developed the main software of distributed technologies in these areas.
 
 ### Database:
 
